@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+			"target": "es5",
+			// "outFile": "public/bundle.js",
+			"watch": true,
+			"resolveJsonModule": true,
+			"esModuleInterop": true,
+	},
+	"compileOnSave": true,
+	"files": [
+			"src/index.ts"
+	]
+
+}
